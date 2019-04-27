@@ -1,0 +1,31 @@
+1) Compnay Edit section  Date is not diplay. so please change.
+
+Done
+
+2) Sales invoice and qutation is same.
+
+Done
+
+3) Inventory stock item index page display Manufacturing Price,Dealer Price,Distributor Price. 
+
+Done
+
+4) All add section cutomers text box only display in customer company name. changed  the customer name. 
+
+Done
+
+5) Sales invoice edit section vat name only avoid.
+
+Done
+
+Sales invoice add section vat name only avoid
+
+Done
+
+Sales invoice view section vat name only avoid
+
+Done
+
+6) Quotation view option remove terms and condition . Note textarea type the option.
+
+Done
